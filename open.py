@@ -1,10 +1,4 @@
 import requests,sys,time,os, argparse
-top = """
- #################################################
- #               REDIRECT SCANNER                #
- #           Author : Thejus Krishnan            #
- #################################################
-    """
 
 def main():
     os.system('clear')
